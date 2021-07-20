@@ -1,5 +1,4 @@
 const { ApolloServer, gql } = require('apollo-server');
-const { argsToArgsConfig } = require('graphql/type/definition');
 
 const typeDefs = gql`
 # ! atributo obrigatório
