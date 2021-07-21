@@ -6,4 +6,4 @@ Evolução no estudo de GraphQL.
 
 :heavy_check_mark: [Como criar Types, Queries e Mutations](https://www.youtube.com/watch?v=iUYabIGhJYk);
 
-[Configurando servidor com Apollo Server e MongoDB](https://www.youtube.com/watch?v=J4xep6HHeIo&list=PLPXWI3llyMiK9uw7tfljM2hnQl2qu6CeT&index=3);
+:heavy_check_mark: [Configurando servidor com Apollo Server e MongoDB](https://www.youtube.com/watch?v=J4xep6HHeIo&list=PLPXWI3llyMiK9uw7tfljM2hnQl2qu6CeT&index=3);

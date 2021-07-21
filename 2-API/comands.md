@@ -2,3 +2,6 @@
 - yarn add nodemon -D
 - yarn add apollo-server graphql
 - yarn dev (execução script)
+- yarn add mongoose
+- yarn add merge-graphql-schemas
+- npm install graphql-subscriptions
