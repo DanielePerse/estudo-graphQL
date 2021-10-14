@@ -1,0 +1,7 @@
+# criando um tipo personalizado
+type Produto {
+  nome: String!
+  preco: Float!
+  desconto: Float
+  precoComDesconto: Float
+}

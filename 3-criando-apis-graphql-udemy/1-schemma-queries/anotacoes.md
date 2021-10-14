@@ -3,3 +3,4 @@
 - Navegação para consumir dados num grapho;
 - Tipos básicos (Scalar Types): String, Int, Float, Boolean, ID;
 - Documentação: https://graphql.org/learn/
+- npm i -s graphql-import (ajuda a importar schemmas)

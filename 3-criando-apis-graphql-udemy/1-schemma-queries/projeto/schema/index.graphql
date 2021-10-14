@@ -1,0 +1,6 @@
+# import Usuario, Perfil from 'Usuario.graphql';
+# import Query from 'Query.graphql';
+# import Produto from 'Produto.graphql';
+
+# como o graphQl tem apenas alguns tipos báscicos, podemos add algum tipo que precismoas. Ex. Date
+scalar Date
